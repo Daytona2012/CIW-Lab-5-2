@@ -1,0 +1,2 @@
+# CIW-Lab-5-2
+Create a variable named myWindow. Assign to myWindow  the result of the open() method of the window object.  Insert an empty set of quotation marks in the URL's  place. Give the window a name. Assign only a height  of 100 and a width of 100. Use the smallWindow() function to add content to the  new window using document.write(). Create &lt;form> tags.  Use an &lt;input> tag to create a button object. Set the  button's value attribute equal to Close. Add an onClick  event handler to call the window.close() method.
